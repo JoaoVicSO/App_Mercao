@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Mercao</string>
+    <string name="TextViewCalcularMedia">Calculo de Média de Aluno</string>
+    <string name="TextViewResultado"></string>
+    <string name="EditTextMedia1">Digite a Nota 1</string>
+    <string name="EditTextMedia2">Digite a Nota 2</string>
+    <string name="EditTextMedia3">Digite a Nota 3</string>
+    <string name="EditTextMedia4">Digite a Nota 4</string>
+    <string name="ButtonCalcular">Digite a Calcular Nota</string>
+
+</resources>
